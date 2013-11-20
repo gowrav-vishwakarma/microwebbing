@@ -1,0 +1,1 @@
+<?php exit(); ?>a:1:{i:0;a:12:{s:2:"id";s:1:"9";s:5:"title";s:4:"Test";s:9:"item_type";s:4:"menu";s:9:"parent_id";N;s:10:"content_id";N;s:13:"categories_id";N;s:8:"position";N;s:10:"updated_on";s:19:"2013-11-19 19:23:16";s:10:"created_on";s:19:"2013-11-19 19:23:16";s:9:"is_active";s:1:"y";s:11:"description";N;s:3:"url";N;}}

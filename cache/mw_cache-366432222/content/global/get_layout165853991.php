@@ -1,0 +1,1 @@
+<?php exit(); ?>s:62:"/var/www/micro/system/templates/default/layouts/blog_inner.php";

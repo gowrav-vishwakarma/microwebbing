@@ -1,0 +1,1 @@
+<?php exit(); ?>a:1:{i:0;a:9:{s:2:"id";s:1:"8";s:10:"updated_on";s:19:"2013-11-14 18:15:24";s:10:"created_on";s:19:"2013-11-14 18:15:24";s:10:"created_by";s:1:"1";s:9:"edited_by";s:1:"1";s:3:"rel";s:6:"global";s:6:"rel_id";s:1:"0";s:5:"field";s:6:"footer";s:5:"value";s:48:"<p class="element" id="row_1384452233748"> </p>";}}

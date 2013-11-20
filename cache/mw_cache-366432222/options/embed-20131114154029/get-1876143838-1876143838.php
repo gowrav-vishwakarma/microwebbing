@@ -1,0 +1,3 @@
+<?php exit(); ?>a:1:{i:0;a:15:{s:2:"id";s:2:"37";s:10:"updated_on";s:19:"2013-11-14 15:40:59";s:10:"created_on";s:19:"2013-11-14 15:40:59";s:10:"option_key";s:11:"source_code";s:12:"option_value";s:39:"&lt;?php
+
+echo &quot;Hello World&quot;;";s:11:"option_key2";N;s:13:"option_value2";N;s:8:"position";N;s:12:"option_group";s:20:"embed-20131114154029";s:4:"name";N;s:4:"help";N;s:10:"field_type";N;s:12:"field_values";N;s:6:"module";s:5:"embed";s:9:"is_system";s:1:"0";}}

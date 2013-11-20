@@ -1,0 +1,1 @@
+<?php exit(); ?>s:42:"http://localhost/micro/my-shop/category:23";

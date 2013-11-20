@@ -1,0 +1,1 @@
+<?php exit(); ?>a:17:{i:0;s:2:"id";i:1;s:5:"title";i:2;s:9:"is_active";i:3;s:6:"rel_id";i:4;s:3:"rel";i:5;s:10:"updated_on";i:6;s:10:"created_on";i:7;s:5:"price";i:8;s:8:"currency";i:9;s:10:"session_id";i:10;s:3:"qty";i:11;s:10:"other_info";i:12;s:15:"order_completed";i:13;s:8:"order_id";i:14;s:15:"skip_promo_code";i:15;s:10:"created_by";i:16;s:18:"custom_fields_data";}

@@ -1,0 +1,1 @@
+<?php exit(); ?>a:1:{i:0;a:4:{s:4:"name";s:9:"New World";s:6:"author";s:10:"Microweber";s:7:"version";d:0.10000000000000001;s:8:"dir_name";s:7:"default";}}

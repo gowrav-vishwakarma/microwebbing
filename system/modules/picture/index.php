@@ -1,0 +1,1 @@
+<img class="element img-polaroid" src="<?php print pixum(300,300) ?>" />

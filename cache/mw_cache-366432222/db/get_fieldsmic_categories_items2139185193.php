@@ -1,0 +1,1 @@
+<?php exit(); ?>a:6:{i:0;s:2:"id";i:1;s:9:"parent_id";i:2;s:3:"rel";i:3;s:6:"rel_id";i:4;s:12:"content_type";i:5;s:9:"data_type";}

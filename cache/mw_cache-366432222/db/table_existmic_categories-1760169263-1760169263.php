@@ -1,0 +1,1 @@
+<?php exit(); ?>a:1:{i:0;a:1:{s:32:"Tables_in_micro (mic_categories)";s:14:"mic_categories";}}
